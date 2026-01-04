@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# Pytest
+.pytest_cache/
+reports/*.html
+
+# IDE
+.idea/
+.vscode/
+
+# Logs & screenshots
+logs/
+screenshots/
+
+# OS
+.DS_Store
+
+# App binaries (optional – recommended)
+src/app/*.apk

@@ -1,0 +1,23 @@
+platformName: "Android"
+automationName: "UiAutomator2"
+
+deviceType: "emulator"   # real | emulator
+
+realDeviceUdid: "TSSOM7NJEU4XFURW"
+emulatorUdid: "emulator-5554"
+
+appPackage: "org.wikipedia"
+appActivity: "org.wikipedia.main.MainActivity"
+appWaitActivity: "org.wikipedia.*"
+
+appPath: "src/app/wikipedia.apk"
+
+appiumServerUrl: "http://127.0.0.1:4723"
+timeout: 120
+
+noReset: false
+fullReset: true
+
+implicitWait: 10
+
+
