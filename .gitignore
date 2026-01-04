@@ -26,3 +26,7 @@ screenshots/
 
 # App binaries (optional – recommended)
 src/app/*.apk
+
+# Backups
+*_backup/
+backup/
