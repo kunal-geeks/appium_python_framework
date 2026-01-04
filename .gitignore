@@ -30,3 +30,4 @@ src/app/*.apk
 # Backups
 *_backup/
 backup/
+
